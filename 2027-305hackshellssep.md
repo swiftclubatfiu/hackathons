@@ -382,6 +382,17 @@ https://codecrunchglobal.vercel.app/hackathons/swiftclubatfiu-hackathons/hackshe
 
 ---
 
+# Photo Album & Project Photos
+
+Event photos, team photos, and project pictures for this hackathon are shared in the Hack University Photo Albums.
+
+* **View photos:** sign in with Google to browse every organization and event album
+* **Upload project pics:** add photos of your team, project, live demo, and showcase moments (in person or virtual)
+
+https://hackuniversity.vercel.app/hackuniversity-photo-albums.html
+
+---
+
 # Final Reminder
 
 Come ready to learn, build, experiment, collaborate, and turn an idea into a real-world solution.
