@@ -5,7 +5,7 @@
 > **Flyer**
 
 <p align="center">
-  <img src="PASTE_FLYER_IMAGE_URL_HERE" alt="305 HackShells September 2027 Flyer" width="600">
+  <img src="https://placehold.co/600x750/3b1f5c/ff8c42/png?font=montserrat&text=305+HackShells%5CnSeptember+2027%5CnIn+Person+%2B+Online%5CnFlyer+TBA" alt="305 HackShells September 2027 Flyer" width="600">
 </p>
 
 ---
