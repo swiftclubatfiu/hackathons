@@ -226,3 +226,14 @@ Swift Club at FIU, as part of the Hack University ecosystem — made possible by
 ---
 
 <p align="center"><strong>🐚 One day. One build. No prior experience required — just show up and build.</strong></p>
+
+---
+
+# Photo Album & Project Photos
+
+Event photos, team photos, and project pictures for this hackathon are shared in the Hack University Photo Albums.
+
+* **View photos:** sign in with Google to browse every organization and event album
+* **Upload project pics:** add photos of your team, project, live demo, and showcase moments (in person or virtual)
+
+https://hackuniversity.vercel.app/hackuniversity-photo-albums.html
